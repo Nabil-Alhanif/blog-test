@@ -1,6 +1,6 @@
-# Financial tracking app
+# Test website for blogs
 
-Welp I'm just trying to create something to help me track my finances while also learning vuejs
+Yeah I'm repurposing this repo to test creating blogs with vuejs
 
 ## Phases
 
